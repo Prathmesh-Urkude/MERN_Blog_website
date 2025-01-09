@@ -1,0 +1,26 @@
+{
+  "name": "mern_blog_website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server/index.js",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrathmeshU20/MERN_Blog_website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/PrathmeshU20/MERN_Blog_website/issues"
+  },
+  "homepage": "https://github.com/PrathmeshU20/MERN_Blog_website#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
